@@ -1,0 +1,12 @@
+.vs/
+.vsconfig
+Assembly-CSharp.csproj
+Library/
+Logs/
+Game2.sln
+My project (1).sln
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+obj/
